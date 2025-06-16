@@ -68,7 +68,7 @@ Guess the Number Screenshot
 
 **Nitish-AI**  
 *Frontend Web Developer*  
-[GitHub Profile](https://github.com/yourusername)
+[GitHub Profile](https://github.com/Nitish-AI)
 
 ---
 
