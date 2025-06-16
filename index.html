@@ -14,7 +14,7 @@
 
       input,
       button {
-        padding: 5px;
+        padding: 15px;
         margin: 5px;
       }
       .gamename {
@@ -87,7 +87,7 @@
         attempts.textContent = `Attempts: ${attemptsCount}`;
 
         if (userGuess < 1 || userGuess > 100) {
-          result.textContent = "Your guess must be between 1 and 100.";
+          result.textContent = "<h1>Your guess must be between 1 and 100.</h1>";
         } else if (userGuess < randomNumber) {
           result.textContent = "Too low! Try again.";
         } else if (userGuess > randomNumber) {
