@@ -14,13 +14,14 @@ A simple web-based number guessing game built using **HTML**, **CSS**, and **Jav
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Demo (https://nitish-ai.github.io/Guess-the-Number/)
 
 > _You can run the project by simply opening the HTML file in any modern web browser._
 
 ---
 
 ## 📁 Project Structure
+![image](https://github.com/user-attachments/assets/c30137ff-86b3-437d-98e7-e685ad5d3cc8)
 
 
 ---
