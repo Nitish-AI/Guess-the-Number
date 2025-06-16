@@ -94,8 +94,8 @@
           result.textContent = "Too high! Try again.";
         } else {
           result.textContent = `Correct! The number was ${randomNumber}. You guessed it in ${attemptsCount} attempts.`;
-          submitButton.disabled = true; //submit button will diable after correct guess
-          guessInput.disabled = true; //guess input will diable after correct guess
+          submitButton.disabled = true; //submit button will disable after correct guess
+          guessInput.disabled = true; //guess input will disable after correct guess
         }
 
         if (attemptsCount >= 10 && userGuess !== randomNumber) {
