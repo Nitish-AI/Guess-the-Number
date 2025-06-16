@@ -50,7 +50,7 @@ A simple web-based number guessing game built using **HTML**, **CSS**, and **Jav
 
 ## 📷 Screenshot
 
-![Guess the Number Screenshot]
+Guess the Number Screenshot
 |----------------------------|
 (![image](https://github.com/user-attachments/assets/5f8445e4-807d-4308-8186-d143ed3bfb89)
 
