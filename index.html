@@ -82,7 +82,6 @@
           result.textContent = "Please enter a valid number.";
           return;
         }
-
         attemptsCount++;
         attempts.textContent = `Attempts: ${attemptsCount}`;
 
@@ -103,6 +102,8 @@
           submitButton.disabled = true;
           guessInput.disabled = true;
         }
+        guessInput.value = ""; // Clear the input field after each guess
+        guessInput.focus(); // Focus back on the input field for the next guess
       });
 
       resetButton.addEventListener("click", () => {
